@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-    "url":"https://github.com/f769451411/MyTest/blob/master/live.txt",
+    "url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/f769451411/MyTest/master/live.txt",
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
