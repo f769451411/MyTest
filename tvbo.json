@@ -10,6 +10,9 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
+  "sites":[
+    {"key":"csp_AppMr","name":"Amtt","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1}
+  ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
